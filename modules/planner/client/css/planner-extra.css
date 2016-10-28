@@ -1,0 +1,55 @@
+.jumbotron h1 {
+  text-align: center;
+  font-size: 90px;
+}
+
+.container-fluid a{
+  font-size: 40px;
+}
+
+#header-buttons {
+  padding-top: 30px;
+}
+
+#home-button {
+  padding-top: 10px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.body-panels {
+  border-color: black;
+}
+
+#plan-creator {
+  display: block;
+  min-height: 100px;
+  width: auto;
+  font-size: 50px;
+  text-align: center;
+  background-color: #c2f0b1;
+  text-decoration-color: white;
+  border-color: black;
+}
+
+.active-plans-panel {
+  display: block;
+  min-height: 50px;
+  width: auto;
+  font-size: 20px;
+  text-align: center;
+  background-color: #c2f0b1;
+  text-decoration-color: white;
+}
+
+.completed-plans-panel {
+  display: block;
+  min-height: 50px;
+  width: auto;
+  font-size: 20px;
+  text-align: center;
+  background-color: #c2f0b1;
+  text-decoration-color: white;
+}
